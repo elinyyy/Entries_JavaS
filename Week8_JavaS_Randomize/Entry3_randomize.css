@@ -1,0 +1,58 @@
+html {
+    background: #ffd52d;
+    color:rgba(255, 255, 255);
+
+    font-size: 20px;
+    font-family:'futura';
+    min-height: 150vh;
+
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 100px;
+}
+/* 
+.quotes {
+    font-size: 80px;
+    font-family:'futura';
+    font-weight: 'bolder';
+    color:rgba(255, 255, 255, 0.9);
+}
+
+.quote1 {
+    z-index:0;
+    text-align: left;
+    position: absolute;
+    left: 20px;
+    width: 800px;
+    height: 300px;
+    transition: 1s linear;
+}
+
+.quote2 {
+    z-index:-1;
+    position: absolute;
+    left: 300px;
+    width: 800px;
+    height: 300px;
+    transition: 0.75s linear;
+}
+
+.quote3 {   
+    z-index:-2;
+    text-align: right;
+    position: absolute;
+    margin-top: 100px;
+    margin-left:800px;
+    transition: 1s linear;
+
+}
+
+.quote4 {
+    z-index:-3;
+    text-align: end;
+    position: absolute;
+    margin-top:300px;
+    transition: 1s linear;
+}
+
+.quote5 */
